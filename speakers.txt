@@ -1,0 +1,3 @@
+Linus Torvalds: Fucking torvalds.
+Bret Victor: The invention talk is dope.
+Ben Orenstein: Ruby and vim.
